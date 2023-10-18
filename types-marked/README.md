@@ -8,7 +8,7 @@ This package contains type definitions for Marked (https://github.com/markedjs/m
 Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/marked.
 
 ### Additional Details
- * Last updated: Mon, 21 Mar 2022 11:01:43 GMT
+ * Last updated: Wed, 07 Sep 2022 20:32:43 GMT
  * Dependencies: none
  * Global values: none
 

@@ -1,8 +1,55 @@
-node-marked (4.0.16+ds+~4.0.3-1) UNRELEASED; urgency=medium
+node-marked (4.2.3+ds+~4.0.7-2) unstable; urgency=medium
 
-  * update
+  * Team upload
+  * Back to unstable
 
- -- Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>  Wed, 27 Jul 2022 17:14:04 +0800
+ -- Yadd <yadd@debian.org>  Sat, 03 Dec 2022 12:21:15 +0100
+
+node-marked (4.2.3+ds+~4.0.7-1) experimental; urgency=medium
+
+  * Team upload
+  * New upstream version 4.2.3+ds+~4.0.7
+  * Update patches
+  * Update build
+
+ -- Yadd <yadd@debian.org>  Wed, 30 Nov 2022 18:20:59 +0100
+
+node-marked (4.2.2+ds+~4.0.7-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream version 4.2.2+ds+~4.0.7
+
+ -- Yadd <yadd@debian.org>  Sun, 06 Nov 2022 11:08:38 +0100
+
+node-marked (4.1.0+ds+~4.0.6-2) unstable; urgency=medium
+
+  * Team upload
+  * Add fix for rollup 3 (Closes: #1022635)
+
+ -- Yadd <yadd@debian.org>  Wed, 26 Oct 2022 14:33:07 +0200
+
+node-marked (4.1.0+ds+~4.0.6-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream version 4.1.0+ds+~4.0.6
+
+ -- Yadd <yadd@debian.org>  Thu, 01 Sep 2022 17:10:49 +0200
+
+node-marked (4.0.18+ds+~4.0.5-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream version 4.0.18+ds+~4.0.5
+
+ -- Yadd <yadd@debian.org>  Fri, 19 Aug 2022 10:30:17 +0200
+
+node-marked (4.0.17+ds+~4.0.3-1) unstable; urgency=medium
+
+  * Team upload
+  * Replace embedded parse5-sax-parser by link to debian module
+  * Update test dependencies (Closes: #1013989)
+  * New upstream version 4.0.17+ds+~4.0.3
+
+ -- Yadd <yadd@debian.org>  Thu, 30 Jun 2022 11:04:17 +0200
 
 node-marked (4.0.16+ds+~4.0.3-1) unstable; urgency=medium
 
