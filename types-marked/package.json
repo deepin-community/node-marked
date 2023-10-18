@@ -1,6 +1,6 @@
 {
     "name": "@types/marked",
-    "version": "4.0.3",
+    "version": "4.0.7",
     "description": "TypeScript definitions for Marked",
     "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/marked",
     "license": "MIT",
@@ -75,8 +75,8 @@
     },
     "scripts": {},
     "dependencies": {},
-    "typesPublisherContentHash": "b33e1af17fb00a1cbf698146c2d72ef6123f95980b5f17dd637874c386c3d453",
-    "typeScriptVersion": "3.9",
+    "typesPublisherContentHash": "5d363282ba7b6371122dcb25bc6ab9dcd441fc565c6028931e96449d1b0149fe",
+    "typeScriptVersion": "4.1",
     "exports": {
         ".": {
             "types": {

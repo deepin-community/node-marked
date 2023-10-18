@@ -1,8 +1,8 @@
 ---
 Archive: GitHub
-Bug-Database: https://github.com/chjj/marked/issues
-Bug-Submit: https://github.com/chjj/marked/issues/new
+Bug-Database: https://github.com/markedjs/marked/issues
+Bug-Submit: https://github.com/markedjs/marked/issues/new
 Changelog: https://github.com/chjj/marked/tags
 Repository: https://github.com/chjj/marked.git
-Repository-Browse: https://github.com/chjj/marked
+Repository-Browse: https://github.com/markedjs/marked
 Security-Contact: https://github.com/chjj/marked/tree/HEAD/SECURITY.md

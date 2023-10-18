@@ -2,12 +2,6 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: marked
 Source: https://github.com/chjj/marked
  https://registry.npmjs.org/@types/marked
-Comment: 
- DFSG-repackaged via debian/new-upstream to exclude the following unlicensed files:
- test/original/*
- (originally obtained from
- https://six.pairlist.net/pipermail/markdown-discuss/2004-December/000909.html)
- and the minified version of the library marked.min.js
 Files-Excluded: marked.min.js
  lib
 
@@ -40,10 +34,6 @@ License: Expat
 
 Files: debian/tests/test_modules/@markedjs/html-differ/*
 Copyright: 2014 Evgeniy Gavryushin
-License: Expat
-
-Files: debian/tests/test_modules/parse5-sax-parser/*
-Copyright: 2013-2019 Ivan Nikulin <ifaaan@gmail.com>
 License: Expat
 
 License: Expat

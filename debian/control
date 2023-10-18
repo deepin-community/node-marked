@@ -8,12 +8,12 @@ Build-Depends: debhelper-compat (= 13)
  , jest <!nocheck>
  , node-array-find-index
  , node-diff <!nocheck>
-# , node-jasmine <!nocheck>
+ , node-jasmine <!nocheck>
  , node-mkdirp
  , node-moment
+ , node-parse5-sax-parser (>= 7)
  , node-spdx-expression-parse
  , node-rollup-plugin-babel (>= 5.2~)
- , node-rollup-plugin-commonjs (>= 15~)
  , rollup
  , terser
 Standards-Version: 4.6.1
